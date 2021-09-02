@@ -1,6 +1,7 @@
 import React from 'react'
 import AdvantagesItems from "./AdvantagesItems";
-import dataAdvantage from "../data/AdvantageList";
+import dataAdvantage from "./data";
+import "../../scss/_advantages.scss";
 
 
 function item(dataAdvantage) {

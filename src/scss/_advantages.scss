@@ -1,0 +1,23 @@
+@import "variables";
+
+.advantages {
+    padding:9rem 0;
+
+    &__item {
+        margin-bottom: 3.125rem;
+        
+        div {
+            background-color: $NavyBlue;
+            height: 7.75rem;
+            width: 7.5rem;
+            margin: auto;
+            border-radius: 20px;
+            margin-bottom: 2rem;
+        }
+        
+        h2  {
+            margin-bottom: 0.6875rem;
+            color: white;
+        }
+    }
+}

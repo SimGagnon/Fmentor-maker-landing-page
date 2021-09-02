@@ -1,7 +1,7 @@
-import Passion from "../assets/illustration-passions.svg";
-import Financial from "../assets/illustration-financial-freedom.svg";
-import Lifestyle from "../assets/illustration-lifestyle.svg";
-import Work from "../assets/illustration-work-anywhere.svg"
+import Passion from "../../assets/illustration-passions.svg";
+import Financial from "../../assets/illustration-financial-freedom.svg";
+import Lifestyle from "../../assets/illustration-lifestyle.svg";
+import Work from "../../assets/illustration-work-anywhere.svg"
 
 
 const advantageList = [

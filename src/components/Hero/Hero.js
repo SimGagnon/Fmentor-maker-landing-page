@@ -1,6 +1,6 @@
 import React from 'react'
-import MouseIcon from "../assets/icon-scroll.svg";
-import "../scss/_hero.scss";
+import MouseIcon from "../../assets/icon-scroll.svg";
+import "../../scss/_hero.scss";
 
 function Hero() {
     return (

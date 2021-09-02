@@ -1,7 +1,8 @@
 import logo from './logo.svg';
-import Header from './components/Header';
-import Hero from './components/Hero';
-import Advantages from './components/Advantages';
+import Header from './components/Header/Header';
+import Hero from './components/Hero/Hero';
+import Advantages from './components/Advantages/Advantages';
+import Pricing from './components/Pricing/Pricing';
 import "./App.css"
 import "./scss/_globals.scss"
 
@@ -11,6 +12,7 @@ function App() {
       <Header />
       <Hero />
       <Advantages />
+      <Pricing />
     </div>
   );
 }
