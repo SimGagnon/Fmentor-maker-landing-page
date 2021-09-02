@@ -11,10 +11,11 @@ function Entry(dataCard) {
         title={dataCard.title}
         description={dataCard.description}
         price={dataCard.price}
+        list={dataCard.list}
       />
     );
   }
-
+ 
 function Pricing() {
     return (
         <section className="pricing">

@@ -10,7 +10,9 @@ function PricingCard(props) {
             </div>
             <div className="pricing__card__bottom">
                 <h2>{props.price}</h2>
-                <ul></ul>
+                <ul>
+                    <li>{props.list}</li>
+                </ul>
             </div>
             
         </div>

@@ -11,6 +11,7 @@ function item(dataAdvantage) {
         image={dataAdvantage.image}
         title={dataAdvantage.title}
         description={dataAdvantage.description}
+        list={dataAdvantage.list}
       />
     );
   }
