@@ -16,8 +16,15 @@ body {
     padding: 0;
     font-family: $Manrope;
     background-color: $DarkBlue;
+    padding: 2.5rem 1.525rem 10.25rem 1.525rem;
 }
 
 li {
     list-style: none;
+}
+
+p {
+    color: $Grey;
+    font-size: 0.9375rem;
+    font-weight: 200;
 }
